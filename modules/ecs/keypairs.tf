@@ -1,0 +1,4 @@
+#resource "aws_key_pair" "deployer" {
+# key_name   = "raghu-key"
+#  public_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC7Jczj9ZjpWXoTqQKE6B3bzy+hEyGviA/4nD3JVmLTLPGUNn2owvampByfafEaMuBMJia7B7e9hVtnlrMcIHAfFWkl4a5W2upeGs7uM8LXfrQcdN8a/WOy/gEAiYQsZ3WDT3kMDV4jMJ7PxL5yLbK/xIDqeWnUNf6zRkmh70l3uiRAC0DBhBKJx4pt0swKhoiCBDN3fIq4bpeEMMoPlxjyWixwNodz46h5nuucr7XeMjLH950edNewmegW7wD7R7Li7NImoRDrEY1J8vUTkcWNjddwNGhLUupzhtLTpkj6DXF5dk9T6a5eavai0meMRZdhrMlH9lLE4T7kKcESJ1Vl r.kadari@2030007599"
+#} 
